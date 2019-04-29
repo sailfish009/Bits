@@ -1,0 +1,6 @@
+ext
+build
+*~
+tags
+[._]*.un~
+*.swp
